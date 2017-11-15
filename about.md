@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
 Passionate about programming languages, carnatic music & running
+
+### TODO
+1. Idiomatic blogging: org-mode-to-markdown bindings 
+
 ### Contact me
 
 [shishir.biyyala@gmail.com](mailto:shishir.biyyala@gmail.com)
